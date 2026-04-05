@@ -1,7 +1,5 @@
 # DaVinci-MSYH
 
-# DaVinci-MSYH
-
 DaVinci Resolve 使用简体中文时，显示的是 宋体。本项目支持在 Windows 系统上将宋体修改为微软雅黑，方便使用。
 
 ## ⚠️注意
